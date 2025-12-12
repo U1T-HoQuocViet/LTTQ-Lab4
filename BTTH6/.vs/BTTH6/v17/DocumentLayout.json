@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs projects\\C#-Learn\\Lab4\\BTTH6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC84185-2C92-4F3C-9DCE-C4DC99A7B50B}|BTTH6\\BTTH6.csproj|d:\\vs projects\\c#-learn\\lab4\\btth6\\btth6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC84185-2C92-4F3C-9DCE-C4DC99A7B50B}|BTTH6\\BTTH6.csproj|solutionrelative:btth6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC84185-2C92-4F3C-9DCE-C4DC99A7B50B}|BTTH6\\BTTH6.csproj|d:\\vs projects\\c#-learn\\lab4\\btth6\\btth6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDC84185-2C92-4F3C-9DCE-C4DC99A7B50B}|BTTH6\\BTTH6.csproj|solutionrelative:btth6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC84185-2C92-4F3C-9DCE-C4DC99A7B50B}|BTTH6\\BTTH6.csproj|d:\\vs projects\\c#-learn\\lab4\\btth6\\btth6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC84185-2C92-4F3C-9DCE-C4DC99A7B50B}|BTTH6\\BTTH6.csproj|solutionrelative:btth6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\vs projects\\C#-Learn\\Lab4\\BTTH6\\BTTH6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BTTH6\\Form1.Designer.cs",
+              "ToolTip": "D:\\vs projects\\C#-Learn\\Lab4\\BTTH6\\BTTH6\\Form1.Designer.cs",
+              "RelativeToolTip": "BTTH6\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:12:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\vs projects\\C#-Learn\\Lab4\\BTTH6\\BTTH6\\Form1.cs",
+              "RelativeDocumentMoniker": "BTTH6\\Form1.cs",
+              "ToolTip": "D:\\vs projects\\C#-Learn\\Lab4\\BTTH6\\BTTH6\\Form1.cs",
+              "RelativeToolTip": "BTTH6\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:12:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\vs projects\\C#-Learn\\Lab4\\BTTH6\\BTTH6\\Form1.cs",
+              "RelativeDocumentMoniker": "BTTH6\\Form1.cs",
+              "ToolTip": "D:\\vs projects\\C#-Learn\\Lab4\\BTTH6\\BTTH6\\Form1.cs [Design]",
+              "RelativeToolTip": "BTTH6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:55:24.372Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
